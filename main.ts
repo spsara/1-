@@ -1,6 +1,6 @@
 basic.forever(function () {
-    basic.showIcon(IconNames.Heart)
+    basic.showIcon(IconNames.SmallDiamond)
     basic.pause(500)
-    basic.showIcon(IconNames.No)
+    basic.showIcon(IconNames.Target)
     basic.pause(500)
 })
